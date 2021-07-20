@@ -1,0 +1,14 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing practice excercise for The Odin Project full stack JS curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mateo Roldos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
